@@ -1,0 +1,11 @@
+C:\Users\anthony\codefellows\401\prework\401Calculator\401Calculator\401Calculator\obj\Debug\netcoreapp2.1\401Calculator.csprojAssemblyReference.cache
+C:\Users\anthony\codefellows\401\prework\401Calculator\401Calculator\401Calculator\obj\Debug\netcoreapp2.1\401Calculator.csproj.CoreCompileInputs.cache
+C:\Users\anthony\codefellows\401\prework\401Calculator\401Calculator\401Calculator\obj\Debug\netcoreapp2.1\401Calculator.AssemblyInfoInputs.cache
+C:\Users\anthony\codefellows\401\prework\401Calculator\401Calculator\401Calculator\obj\Debug\netcoreapp2.1\401Calculator.AssemblyInfo.cs
+C:\Users\anthony\codefellows\401\prework\401Calculator\401Calculator\401Calculator\bin\Debug\netcoreapp2.1\401Calculator.deps.json
+C:\Users\anthony\codefellows\401\prework\401Calculator\401Calculator\401Calculator\bin\Debug\netcoreapp2.1\401Calculator.runtimeconfig.json
+C:\Users\anthony\codefellows\401\prework\401Calculator\401Calculator\401Calculator\bin\Debug\netcoreapp2.1\401Calculator.runtimeconfig.dev.json
+C:\Users\anthony\codefellows\401\prework\401Calculator\401Calculator\401Calculator\bin\Debug\netcoreapp2.1\401Calculator.dll
+C:\Users\anthony\codefellows\401\prework\401Calculator\401Calculator\401Calculator\bin\Debug\netcoreapp2.1\401Calculator.pdb
+C:\Users\anthony\codefellows\401\prework\401Calculator\401Calculator\401Calculator\obj\Debug\netcoreapp2.1\401Calculator.dll
+C:\Users\anthony\codefellows\401\prework\401Calculator\401Calculator\401Calculator\obj\Debug\netcoreapp2.1\401Calculator.pdb
